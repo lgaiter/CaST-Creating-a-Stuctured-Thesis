@@ -1,1 +1,1 @@
-# -CaST-Creating-a-Stuctured-Thesis
+# CaST-Creating-a-Stuctured-Thesis
